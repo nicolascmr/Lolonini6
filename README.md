@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m going to learn computer science this fall, I'm excited about it. I hope I will discover passionating new stuff 🫡 
+- 🌱 I’m going to learn computer science this fall, I'm excited about it. I hope I will discover passionating new stuff 
 
 <!--
 **Lolonini6/Lolonini6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
